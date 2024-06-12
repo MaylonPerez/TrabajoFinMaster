@@ -47,7 +47,7 @@ conversaciones = pd.read_csv(archivo_csv)
 # resultados
 resultados = []
 
-for index, conversacion in conversaciones.iterrows():
+'''for index, conversacion in conversaciones.iterrows():
     texto = conversacion['conversacion_cliente']
     neg, neu, pos = Analizar(texto)
     satisfaccion = clasificar_satisfaccion(neg, neu, pos)
@@ -57,4 +57,13 @@ df = pd.DataFrame(resultados, columns=['index', 'texto', 'clasificacion'])
 # Nombre del archivo
 archivo_csv = 'resultados.csv'
 # Escribir el DataFrame en un archivo CSV
-df.to_csv(archivo_csv, index=False)
+df.to_csv(archivo_csv, index=False)'''
+
+# Abre el archivo en modo de lectura
+with open('Datasets/Transcripcion.txt', 'r', encoding='utf-8') as archivo:
+    # Lee el contenido del archivo
+    contenido = archivo.read()
+
+neg, neu, pos = Analizar(contenido)
+satisfaccion = clasificar_satisfaccion(neg, neu, pos)
+print(satisfaccion)

@@ -1,0 +1,39 @@
+Hey, I'll see you, right?
+How are you?
+Winglet came on me.
+So let's wait.
+France going to join us from your side?
+Somebody else but going to join this meeting.
+OK, let me see.
+Quran is coming to China's.
+I just send a message.
+Seems to be Christmastime and this argument.
+Alright, they looks like running is actually another meeting.
+He's this title seemed sending so.
+Probably he will be able to join some, at least not at this moment.
+So yeah, Grant told me that you have 8 your app.
+Your telemetry app he actually running, so you would like to, you know is I would like to share you like a dashboard where you can see some data and also how to check like extensions that were install it.
+Yeah.
+So I don't know how you want to start so I can share my screen to my dashboard.
+You can share your screen and you know I can walk you through all the process because we will have access to your to your actual portal.
+So yeah.
+All right.
+So that's your PC two entry app.
+So how do you check climb?
+Do you normally run the queries that you have or how exactly you check that?
+I mean, how do you check telemetry?
+How do you grant the data?
+Do you have the KQL over it?
+Alright, alright, so so you you haven't used telemetry.
+I mean, it's actually connected, but you haven't used it.
+All right, I got it.
+Perfect. OK.
+Awesome.
+Not that's that's that's that's right.
+I wanna search for my screen.
+I wanna show you the dashboard that I use and then I can show you this dashboard and we can both connect that password using your telemetry app is OK.
+Perfect.
+Something that sort of mindset right now.
+So I have to build this task for with one of my colleagues or by all of my ex Microsoft colleagues to be honest and yeah and with this task for I can see different kind of there.
+For example, if I want to see like a PTDE usage and the graduates now select the the point of time, I can cost mine say OK from yesterday.
+From this time until you know today, let's say for this time better I can
