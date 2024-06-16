@@ -1,39 +1,160 @@
 Hey, I'll see you, right?
 How are you?
 Winglet came on me.
-So let's wait.
-France going to join us from your side?
-Somebody else but going to join this meeting.
 OK, let me see.
-Quran is coming to China's.
-I just send a message.
-Seems to be Christmastime and this argument.
-Alright, they looks like running is actually another meeting.
-He's this title seemed sending so.
-Probably he will be able to join some, at least not at this moment.
-So yeah, Grant told me that you have 8 your app.
-Your telemetry app he actually running, so you would like to, you know is I would like to share you like a dashboard where you can see some data and also how to check like extensions that were install it.
-Yeah.
-So I don't know how you want to start so I can share my screen to my dashboard.
-You can share your screen and you know I can walk you through all the process because we will have access to your to your actual portal.
-So yeah.
 All right.
-So that's your PC two entry app.
-So how do you check climb?
 Do you normally run the queries that you have or how exactly you check that?
 I mean, how do you check telemetry?
-How do you grant the data?
-Do you have the KQL over it?
 Alright, alright, so so you you haven't used telemetry.
-I mean, it's actually connected, but you haven't used it.
 All right, I got it.
-Perfect. OK.
 Awesome.
-Not that's that's that's that's right.
-I wanna search for my screen.
-I wanna show you the dashboard that I use and then I can show you this dashboard and we can both connect that password using your telemetry app is OK.
 Perfect.
-Something that sort of mindset right now.
-So I have to build this task for with one of my colleagues or by all of my ex Microsoft colleagues to be honest and yeah and with this task for I can see different kind of there.
-For example, if I want to see like a PTDE usage and the graduates now select the the point of time, I can cost mine say OK from yesterday.
-From this time until you know today, let's say for this time better I can
+No, no.
+Yeah, I mean, to be honest, I don't know why the other apps are not populated right here.
+Alright.
+Yeah.
+Yeah, yeah.
+Alright, alright, that's correct.
+And yeah, I connect to my to my telemetry app.
+Then that that's.
+A like to send notifications something like that, but then you mean.
+Yeah.
+Correct.
+Yeah.
+So if you are saying like if I mean if your question is that this dashboard can send you like notifications when a deadlock appears not.
+That is when I don't know if we can do that to be honest, but yeah, basically this is only show showing data from telemetry.
+And these are different, you know, pages that you know to see different thing.
+Umm yeah.
+Yeah, yeah, yeah, yeah.
+Correct.
+Umm.
+I mean we we normally recommend and we always recommend customer to have telemetry because it's you, it's useful for us like for example, if you report like a some slowness or some performance issue or you want to see or you want to know who or when an application what was updated or was installed admit this is not something that is showing been central but using telemetry we in your activities because of that.
+And in addition about your comments or you just a quick thing a you talk about you know notifications if some something happened in in BC admin portal, you can create, you mean you can insert your email of the email address that will send notifications when and now that you exceeds or when there is something like you know like critical if you go to the business central admin portal there is I cannot notification a pack a pack and then you can use you know set your user are email.
+Umm.
+OK.
+Alright.
+Umm.
+Alright, that's correct.
+But yeah, you can see by my page you can see like for example sometimes happen that I web service is failing.
+You can see what web which web services that and that those kind of things.
+1st and not no worries, no worries.
+And if I got share you the dashboard in and I'm gonna give you the steps, let me see if I can upload.
+No, no, not yet.
+And I also show you a link where this task promote be uploaded.
+Alright, perfect.
+This is by user.
+Yeah.
+Alright, so maybe we can we can record this part of this session and I you know you can replicate this same process to the address of the users, alright.
+Or correct.
+Alright, thank you.
+He.
+Ah, did you have like a 3 cats?
+Yeah, we have to do is to change the data source.
+Yeah.
+Yeah, no.
+No, because we need no we we need to uh from the data source we need to connect to the to to your subscription ID and you're telling, yeah.
+Yeah, just keep the accept the the X.
+I look in there.
+Yeah, we we need to go back to the to the actual portal and then see the subscription ID, which is actually writer.
+And yeah, no, this is Haley and also the resource group we need to change both things.
+At first they subscription ID call to you.
+Uh-huh.
+No, it's right there.
+I just.
+Yeah, it's.
+Yeah, business central.
+Yeah, yeah, yeah.
+At now there you go.
+Yes.
+Now correct.
+That's a high call, not the connect to see if there was able to be connected.
+And it works when $20 closer.
+OK, there is this something.
+Can you list it in the in?
+Yeah, because it research.
+It's not trying to.
+There you go.
+I mean, actually you don't have to do that step.
+And also they make make sure that LLC is part of of the of the application that you build.
+It's be.
+Before doing anything, please keep on safe, because if you don't save it, then yeah, maybe you need to do on safe.
+Yeah, please click on save.
+Yeah.
+No worries.
+So let's see.
+This is the most app right app there you so you can see like if I mean there is any accent to has been updated or stalling the last 12 hours.
+SWH roots was installed on on May 10th.
+Yeah, it's, I mean you it's not recorded who created now you I mean like we can try to using real query build more columns.
+Yeah, if you click on the right to the right, if you just go to the right in the three dots right there, there is like A3 parts and then view query.
+Yeah.
+So if you are going to Caldwell queries you can.
+Yeah.
+Yeah.
+Yeah.
+That's fine.
+Yeah, we'll figure it out.
+Yeah.
+I've also you for free.
+No, you can go ahead.
+So that's fine.
+Yeah.
+And see if we can try the error message.
+A wish field.
+Umm.
+Yeah.
+Let me check.
+Yeah.
+Know from here like.
+Do if you want to see, you can also use configuration packages and just type 51, which is I mean to see what page is really let's go to configuration packages.
+I mean this is the way that I I I don't know if you Grant have like a different way to check like in this case what keeps you one pages.
+Yep, you can just new to this like a test or something.
+That's the table.
+Yeah, it it's not the case.
+Yeah.
+Yeah.
+Yeah, and.
+Yeah, maybe not the last part, but we we can use KQL queries.
+Yeah, just to add what?
+And just to add what Grant says, I know what that error is.
+Who is facing this is with what was the user that is facing that error message.
+OK, so if you go to to to the admin portal, you will probably see multiple sessions for that user.
+Yeah.
+And.
+Yeah.
+Listed.
+To be guided, yes.
+Alright, maybe I don't know.
+Yeah.
+It's OK.
+If you have any issue like me, you are waiting some performance issue or something like that.
+Not always.
+If you click on there what?
+Yeah, alright.
+Just to the left or left, Nate left the left.
+And you go.
+Yeah, it's yeah.
+But yeah, you can just basically, you know run that.
+Yeah, but.
+We OK.
+Yeah.
+Yeah, yeah.
+So just perfect.
+The browser.
+All right.
+Sure.
+Thank you, baby.
+For years.
+It it, it will be great, like if we have access to this task for because I can, you know, try to find first in my side and then we can get into a call and I can show you my findings like it would be easier for you to learn in Japan.
+But yeah, I mean like.
+Why?
+Yeah.
+Yeah, like I mean a been honest, I normally build the dashboard in, in our tenant and then I just connected through the customer environment.
+Alright.
+OK.
+Yeah.
+Yeah.
+Alright.
+You're welcome.
+How are yours?
+Alright, thank you so much guys.
+Thanks, bye.
