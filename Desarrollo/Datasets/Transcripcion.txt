@@ -1,160 +1,500 @@
 Hey, I'll see you, right?
 How are you?
 Winglet came on me.
+So let's wait.
+France going to join us from your side?
+Somebody else but going to join this meeting.
 OK, let me see.
+Quran is coming to China's.
+I just send a message.
+Seems to be Christmastime and this argument.
+Alright, they looks like running is actually another meeting.
+He's this title seemed sending so.
+Probably he will be able to join some, at least not at this moment.
+So yeah, Grant told me that you have 8 your app.
+Your telemetry app he actually running, so you would like to, you know is I would like to share you like a dashboard where you can see some data and also how to check like extensions that were install it.
+Yeah.
+So I don't know how you want to start so I can share my screen to my dashboard.
+You can share your screen and you know I can walk you through all the process because we will have access to your to your actual portal.
+So yeah.
 All right.
+So that's your PC two entry app.
+So how do you check climb?
 Do you normally run the queries that you have or how exactly you check that?
 I mean, how do you check telemetry?
+How do you grant the data?
+Do you have the KQL over it?
 Alright, alright, so so you you haven't used telemetry.
+I mean, it's actually connected, but you haven't used it.
 All right, I got it.
+Perfect. OK.
 Awesome.
+Not that's that's that's that's right.
+I wanna search for my screen.
+I wanna show you the dashboard that I use and then I can show you this dashboard and we can both connect that password using your telemetry app is OK.
 Perfect.
+Something that sort of mindset right now.
+So I have to build this task for with one of my colleagues or by all of my ex Microsoft colleagues to be honest and yeah and with this task for I can see different kind of there.
+For example, if I want to see like a PTDE usage and the graduates now select the the point of time, I can cost mine say OK from yesterday.
+From this time until you know today, let's say for this time better I can do that or I can say OK only for the last three hours or the last 12 hours of the left, they still left at all two days.
+I can use that time on here with this telemetry app.
+I can we can connect multiple in multiple tenant.
+So has I have multiple apps or multiple environment connected to the same Level 3 app.
+I just select the one that I used to check.
+I don't know what you're doing, so just do it.
+Want.
 No, no.
+Yeah, I mean like a in my side has I have the same telemetry app connected to multiple environments.
+I can see those environments in your side as you are going to be only connected your app to your environment you will you will only see your environment.
 Yeah, I mean, to be honest, I don't know why the other apps are not populated right here.
+I know why.
+Sorry, I'm using the wrong useful and just go back here and use this to learn 3.
+Like that.
+Same thing.
 Alright.
+So that this is a dashboard which is a useful for me because you you you don't have to run any take your queries.
+So this task is these are connected with cake will very which are basically request to the telemetry.
+So again, if I want to see, for example the the extensions usage, so you select let's say the time will be for the last two days, which app are gonna use this case the this one you said.
+Remember, inside something I don't have from here.
+And then I'm gonna say, but environment always put that in your view where I have these installed.
+And then I can use both more fields.
+If you can see like I can see here that I style at PTFE called MSFT P Today, which is 2024, May 13 at this time.
+So I basically I install this app just for test today and I can see different things like here in this taskbook I already have like for the time frame of two days beat the tenant ID which is the one that I select in your case.
+Again, you will only have one which is your tenant ID.
+The environment has, you know, with that one thing you can have one product and three samples if you will have to eliminate connect to the three sandboxes as well.
+You will see like the three the production it with the three samples here.
+So you can select which one and you can use the other filters so.
+Alright.
+Yeah, yeah, sure.
+I'm gonna.
+You know, I'm gonna show you all this.
+So this taskbar I will chat to you and then I will walk you through how to install it or and how to connect it to your application.
+This something that I will do it.
 Yeah.
+Yeah.
+And you have basically another if you know what telemetry is.
+Fat, basically telemetry are all the traces and all the records that our collective A by, you know, by Microsoft in this case.
+Like if you for example uninstall something if you are upgrading vitamin.
+If you delete a news or something like that, all these records, all these traces are recorded and using telemetry you can access to those threads.
+To be honest, it's not like a super transparent to read sometime it's super hard to understand light and the data because data is not showing like a you know in English super clear.
+It's not like a text to read, but if you use them and you if you get more familiar with telemetry, then you it it's gonna be easier to, you know, use the use the language thing which is super useful.
+I normally use telemetry to check for example performance if a, for example, let's let's think that the customer page is is running super slow and when every time I open on the try try to open the customer list it takes about 25 seconds.
+For example, for using telemetry I can go and filter by that time, like if I may a test.
+Right now I can say like for the last five minutes I can filter by this page and then I wanna see like this this time.
+Is and then I can see.
+I can try to track what is causing this performance.
+Issues, for example, so that's basically currently is basically all the traces of are recorded into the system.
 Yeah, yeah.
 Alright, alright, that's correct.
+Yeah, that, this, these are a dashboard I created with my one of my ex Microsoft colleagues.
 And yeah, I connect to my to my telemetry app.
+So by gonna do is show you the password.
+Install it on your side and then connect it to your application so you can see your data.
 Then that that's.
 A like to send notifications something like that, but then you mean.
 Yeah.
 Correct.
 Yeah.
+Yeah, I'm yeah.
+No, like, I mean, no, it a OK, we did passport as you said.
+If there is some deadlocks or some table locks and that you of course realize that something is is blocking your site system, you can go to the taskbar and check the limit.
 So if you are saying like if I mean if your question is that this dashboard can send you like notifications when a deadlock appears not.
 That is when I don't know if we can do that to be honest, but yeah, basically this is only show showing data from telemetry.
 And these are different, you know, pages that you know to see different thing.
+You can create more.
+You can also use a KQL queries so a big way to access that telemetry is using KQL various.
+It's like a SQL like a, you know, a database request, but that this is OK QL from good stock to you already something like I don't remember deal, but yeah, sure.
 Umm yeah.
 Yeah, yeah, yeah, yeah.
 Correct.
+Correct.
+Yeah, I mean like a for sure.
 Umm.
 I mean we we normally recommend and we always recommend customer to have telemetry because it's you, it's useful for us like for example, if you report like a some slowness or some performance issue or you want to see or you want to know who or when an application what was updated or was installed admit this is not something that is showing been central but using telemetry we in your activities because of that.
+So I can go to your telemetry dashboard for.
+Yeah, in this case I cannot, because I mean, I don't have access to your telemetry.
+But yeah, I can say, hey, go to telemetry and check that and then we can get into a call and then I can walk you through what pages I would like to see or something like that.
 And in addition about your comments or you just a quick thing a you talk about you know notifications if some something happened in in BC admin portal, you can create, you mean you can insert your email of the email address that will send notifications when and now that you exceeds or when there is something like you know like critical if you go to the business central admin portal there is I cannot notification a pack a pack and then you can use you know set your user are email.
 Umm.
 OK.
+It's just notification recipients.
+2nd right there.
+Yeah, you can.
+You know you can create new a new for you or who want to be not not notified if something happened pretty well.
 Alright.
 Umm.
 Alright, that's correct.
+Yes, you can.
+See for example performance here by Internet screen.
 But yeah, you can see by my page you can see like for example sometimes happen that I web service is failing.
 You can see what web which web services that and that those kind of things.
 1st and not no worries, no worries.
+Alright so.
 And if I got share you the dashboard in and I'm gonna give you the steps, let me see if I can upload.
+You know, teams.
+If not, I have to probably send it to you.
 No, no, not yet.
+Let me see.
+I I'm not sure for the dashboard I need to send it to you, but let me see if I can change it to teams.
+Hans.
+See, it's gonna be sent.
+Alright, Nate, can you charge you with me back?
+And I can walk you through the process through upload the dashboard and use it.
 And I also show you a link where this task promote be uploaded.
 Alright, perfect.
+So if you see like in the top left side, it says new dashboard and then there is like a drop down arrow.
+Yeah please.
 This is by user.
+Let me like, once we update it, you can just share the the the dashboard.
+Let me see if you can check the link.
+No, we need to check the casserole.
 Yeah.
+I mean a just who will be asking telemetry.
+We only be both of you or there will be more users.
 Alright, so maybe we can we can record this part of this session and I you know you can replicate this same process to the address of the users, alright.
 Or correct.
+Let me start, it's already recording.
+I didn't know, I mean anyway.
 Alright, thank you.
+Alright, so please click on the drop down arrow and hit import file which is the first step we need to import the dashboard and dangerous for the one that is sure to you.
+I think this task is can you see partially.
 He.
+Yeah, he Jason this.
+Yeah, he don't he don't create.
+So you will see like 1000 of error right now because it's it's in in the you know in the background is connected to my to my telemetry app.
+So now we need to connect to your telemetry app.
+So please click on the settings in the yeah right there and now it's down here.
 Ah, did you have like a 3 cats?
+Let me see if Support big.
+May see something different in my side.
+Nothing else changed.
+Can you click on the settings back please?
+I'm drop down arrow.
+And dance.
+How you didn't see like the data source, can you?
+It's actually editing.
+That's correct.
+Can you click in the in the is you see the editing like have the pencil in the left side.
+Yeah, let's change back to view.
+Uh-huh.
+And then keep this car changes to the matter.
+Umm, interesting.
+Alright, please try to import it back.
+Each.
+And look at the side.
+No.
 Yeah, we have to do is to change the data source.
+Add this when you click on settings.
+You don't see the data source populated.
 Yeah.
 Yeah, no.
 No, because we need no we we need to uh from the data source we need to connect to the to to your subscription ID and you're telling, yeah.
 Yeah, just keep the accept the the X.
+Just go back.
+Yeah.
+OK.
+And now try to go back to settings to see if you know see the data source no.
+Interesting.
 I look in there.
+Yeah, which is, this is change.
+Yeah, I I don't know what happened.
+Yeah.
+There you go.
+Now please click on the pencil and then here.
+Let me see need to change the URL and.
+Yeah, you need to ship.
 Yeah, we we need to go back to the to the actual portal and then see the subscription ID, which is actually writer.
+And yeah, it's it's it's a good work, correct.
 And yeah, no, this is Haley and also the resource group we need to change both things.
 At first they subscription ID call to you.
 Uh-huh.
+And then instead of these scripting ID just put juice.
 No, it's right there.
 I just.
 Yeah, it's.
 Yeah, business central.
 Yeah, yeah, yeah.
+I mean umm alright.
+And and resource group.
+This is central and now busy application is a. How?
+How is it called?
+Your side is not busy.
+Application is I think it's called something different.
 At now there you go.
+At that time the correct.
 Yes.
 Now correct.
 That's a high call, not the connect to see if there was able to be connected.
 And it works when $20 closer.
 OK, there is this something.
 Can you list it in the in?
+No, it's actually now, let me see.
+Just quick resource group in central.
+Ohh fighters like there.
+No2.
+It's been central altogether, which is separate with like space in your side and the resource group.
 Yeah, because it research.
+Look the app name.
 It's not trying to.
+I think it's because maybe this doesn't like the.
+You know the Lang space.
+That's why I think.
 There you go.
+So now in the database you can see it is now connected, has been sent to select which is.
+It means that if it recognized the app so now it will apply.
+Alright, so now everything seems to be connected and we before.
 I mean, actually you don't have to do that step.
+Elsie, as far as a nature you dashboard, this dashboard will contain the same cluster.
 And also they make make sure that LLC is part of of the of the application that you build.
 It's be.
 Before doing anything, please keep on safe, because if you don't save it, then yeah, maybe you need to do on safe.
 Yeah, please click on save.
 Yeah.
+Now you can.
+Yeah, I save it now.
+You can switch back instead of editing, click on view it.
+So in the top right, just click on, view it and now your app is actually connected so you don't see the pages that that if you click on the right either intelligent in the left side says pages there is like a arrow going to do it right just left or left.
+Yeah.
+Now don't.
+Yeah.
+Yeah.
+Just there you go.
+Up.
+So that's when they open it up.
+That's when that you really yes.
 No worries.
+There you go.
+So you will see all these.
+I mean, all these dash for I mean all these pages from this dashboard.
+And if you wanna do something specific, yeah, you click on there as and then then click on or last three hours, 12 hours.
+It was in the in the so they can ID which is the AAD tenant.
+Yeah.
+There you go.
+Click and yours.
+Please correct and then you will see all this.
+This is something different, but you're not selecting the.
+This is average, yeah.
 So let's see.
+Yeah, that's performed, right? Yeah.
+This to be something with performance.
+We live with these pages and reports.
+Yeah.
+So if you want to see, for example, the PT installed, just go back to the pages.
+I don't know why it's hide, but yeah, in I'll use for example PT usage.
 This is the most app right app there you so you can see like if I mean there is any accent to has been updated or stalling the last 12 hours.
+If you, you know, give more time range like 3 to 7 days something like that.
+Yeah, you can see more data right there.
+You see the annexation call.
 SWH roots was installed on on May 10th.
+For example, it says that means it has all the profits was installed on the production environment and yeah.
 Yeah, it's, I mean you it's not recorded who created now you I mean like we can try to using real query build more columns.
+But yeah, like at for the default Italy have those objects.
 Yeah, if you click on the right to the right, if you just go to the right in the three dots right there, there is like A3 parts and then view query.
+This is all big KQL query that is running in the background for this dashboard so it has the filters.
+Yeah.
 Yeah.
 So if you are going to Caldwell queries you can.
+You know you do magic with that, or you can either you know, just use take this cake varies in a clean new query and then you can run those queries well.
 Yeah.
+And now what you have to do is to save or bookmark this pages, because then you need to start over again.
+So just bookmark the page.
 Yeah.
+If we have like the specific air, I mean if this specific error is related with a page.
+For example, if you were trying to, I don't know if create a vendor, you can filter a, just go to identity to the pages.
+And if you see, let me remain remind there is space performance, we can you you can use that, huh?
+And you can see and you can filter by the object number.
+So for example vendor let me see what is the page for vendor.
+If you have been sent and you can go back to being central.
 Yeah.
 That's fine.
 Yeah, we'll figure it out.
+So yeah, for example, maybe if you want to see like if these deadlocks or if this performance issues our face on the vendor page, you can go to vendor for example and using the pacing inspection you can realize which is the page number.
+So if you go to the the question mark in the top right corner, yeah, there you go.
+Yeah, you can see it.
+Depender is page 27.
+You can use that on the filter.
+So go to performance and then filter by page 27 the option number.
+You can do that?
+Yeah, just click on the on the on the object number, you see the hamburger icon or the two lines.
 Yeah.
+There you go.
+You can there and then there is like a thesecond right up and this the filter icon it the second icon.
+So there you go and then you can type 27.
+It's gonna filter the all the the, the the pages or the performing quest by this specific table.
+So you can see like if there is something like you know page a performance issue.
+You can see all these drop down right there.
 I've also you for free.
 No, you can go ahead.
 So that's fine.
 Yeah.
+Let me see if we can try to check that by the way.
+Yeah.
+Let me see where we can see that because there is some.
+I mean, there is a case that also tracked the error message.
+Just need to remind where.
 And see if we can try the error message.
+And you know where this.
+I mean, let me see if we can see it from Peachtree.
+Once done, taking says.
 A wish field.
 Umm.
 Yeah.
-Let me check.
 Yeah.
+OK, the user telemetry, the yes, that's the user and if the fields actually there like if you open it up for example the let me see this column has been telling me.
+See, but it will pass.
+I think that there was like a page that you can bring up all the air mass.
+I mean, all the edges really error message.
+Let me check.
+It's called.
+No worries.
+No, it's not that one.
+Did you?
+I mean for child you can use a.
+You can filter that using KQL queries that that story diable that's on the dashboard.
+Let me see those.
+I think we have something to error message.
+It's.
+Some parents becomes.
+And you message.
+I need to check that I need to be able to review again that the dashboard to see if I can fax something using the error message.
+Actually, I cannot remind I I I really think that there was something that we can check that, but I cannot remind piece, be honest I guess so a if again I would suggest to filter by the page always like if the this performance or if this error message is face in a specific a table then you can use that table ID or tag table number to filter any enemy like the performance features has 3D before we depend on page.
+Yeah.
+Telemetry again won't tell you like anything in English would say, like it's it's failing because this it will show you the data like you can see it will choose like average you it will show you like how?
+I mean the average, for example, that a page is taking, you can see like that that page have like performance is super slow then you can with that page or with that specific time you can say or filter if there is like a a third party extension in policing ball on that time for example.
 Know from here like.
+Yeah, we need to go to visit, to to business central to check.
+Because I mean here doesn't say which is the page with 51 page.
 Do if you want to see, you can also use configuration packages and just type 51, which is I mean to see what page is really let's go to configuration packages.
 I mean this is the way that I I I don't know if you Grant have like a different way to check like in this case what keeps you one pages.
+You can use click new.
 Yep, you can just new to this like a test or something.
+Test three was Martin Angeles class or whatever of fifth.
+Page 51 you can type any any code.
+And then yeah, that's that's like the the, the, the completion, it's a make, they just type again page in the table ID yeah you need to type 51 this you should camera user dusty page.
+Ohh sorry, dusty panel yes.
 That's the table.
 Yeah, it it's not the case.
+Let let's try by going to the purchase invoices that call, right? Yeah.
 Yeah.
+Let's see if that's the page that I don't know.
+If it says page 51 because the work is seen is no, it's different.
 Yeah.
+Yeah, maybe Microsoft data is, you know, Microsoft message is not super clear.
+As always, bad.
+Yeah.
+So my my my suggestion is when there is like a performance issue and you know where is you know where the performance is.
+I mean, which page could just go to the IT telemetry and filter by the table ID?
+I mean just type like for example if you go back to to telemetry, you actually know the purchase English 38 you can just like 38 right there to see if there is something right there.
+38 Yeah, so the average for this page, which is the purchase invoice is ABS balance the right table to create this one.
+But this is this is this is that in?
+Here you are using D can you click on the pages it is in the in the in the.
+To see all the pages list he has been in the the are hide it, you click on the.
+The left side is.
+Yeah, right there.
+You pays performance.
+Can you just switch to let me see.
+Stafford, can you switch to the the the T1-T2PT Pte performance?
+I mean that one we wanted to check.
 Yeah, and.
 Yeah, maybe not the last part, but we we can use KQL queries.
+I mean just to add what?
 Yeah, just to add what?
+Yeah.
 And just to add what Grant says, I know what that error is.
+I think I I I'm pretty sure what the error is.
+This error happened but didn't say that you can.
+You can save your changes because it's actually updated by the different record.
+It means that the same user could have multiple tab tab open like I can open 3 tab for the purchase invoice and when when I try to to safety changes or plus something it will allow me because it seems to be updated by the different section that actually.
+So if you go to business central, by the way, who is face this it?
 Who is facing this is with what was the user that is facing that error message.
 OK, so if you go to to to the admin portal, you will probably see multiple sessions for that user.
+So if you go to that with the admin portal.
+And then go to the production environment and go to the sections.
+There will be more than one session for the same user, so if you if you Scroll down to the user.
 Yeah.
+So when that error message specific error happened, you can you just need to cancel the extra setting like I can have like a if you see the there will be user that have more than one setting open.
 And.
 Yeah.
 Listed.
 To be guided, yes.
+I don't know who is that actually in see if I can check.
+Maybe we can check into the users you got your grandfather your message user.
 Alright, maybe I don't know.
+Maybe Richard can have this list, but yeah, that's the thing.
 Yeah.
+I think what, what?
+What?
+What Brian was saying, like all these, I mean extra application E that is running the background.
+So has this background client.
+It looks like that is that the right grant?
 It's OK.
+Yeah, I mean like.
 If you have any issue like me, you are waiting some performance issue or something like that.
+Just let us know.
+I can.
+You know, we can ask we as I cannot access to your telemetry, I can we can get into a call and I can try to walk you through what to check.
 Not always.
+The dashboard will have the answer because you know it's it's it's it's limited by what we build, like what pages are built that Ashford.
+But using cake will queries tonight, we can try to get more if you see a instead of clicking dash for the in the left side you there is like a options that says or a function that says query right there.
 If you click on there what?
 Yeah, alright.
+OK.
 Just to the left or left, Nate left the left.
 And you go.
 Yeah, it's yeah.
+If you have like a new cake will carry, you can go and run for it.
+I don't know Grant if you have actually something like like a two per basic query then they can run to check something.
 But yeah, you can just basically, you know run that.
 Yeah, but.
 We OK.
+Yep.
+So again, if you have any question or you want to learn more, just let us know.
+We can try to get to a call and try to explain more about this.
 Yeah.
+And Nate, if I mean if you want, you can share this task for has it's actually connected to your to your telemetry app.
+So, Elsie, that doesn't have to, you know, go to the data source and get the subscription ID.
+You can just go to the file the other way, the other one.
+Time is not in there export dashboard, so this dashboard that you will Support are already has a the connection to your.
 Yeah, yeah.
 So just perfect.
 The browser.
 All right.
+So if there is anything else, I think we'll be to go, right?
 Sure.
 Thank you, baby.
 For years.
 It it, it will be great, like if we have access to this task for because I can, you know, try to find first in my side and then we can get into a call and I can show you my findings like it would be easier for you to learn in Japan.
+We also to travel to if you can put.
+Yeah.
+Give us access to these telemetry app will be super awesome.
+And yeah, we can also do that to a call.
 But yeah, I mean like.
 Why?
 Yeah.
 Yeah, like I mean a been honest, I normally build the dashboard in, in our tenant and then I just connected through the customer environment.
+So we can have access or give management safely to limit you for the client.
+Normally we normally customer doesn't know what telemetry is or how to use it.
+They only, I mean then we we would like.
+I mean we we always recommend to have it because we can track each of us in a better way, like in more deeply investigation.
+Bad guy in that case has we don't have access to your application.
+We we cannot access to your telemetry that tree app data.
+So yeah, right now the unique way to do it is going to you into a call and then picture this window stuff.
+But yeah, so I don't know.
+Grant do we have a or maybe Morgan?
+You know that question?
+Do we have a admin relationship?
+I'm sorry.
+Planning relationship.
+Now you see the delegate admin.
 Alright.
 OK.
 Yeah.
 Yeah.
 Alright.
 You're welcome.
+Thank you so much for your.
 How are yours?
 Alright, thank you so much guys.
+Thank you for your note.
+Have a good day.
 Thanks, bye.
