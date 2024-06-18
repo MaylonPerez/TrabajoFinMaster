@@ -1,5 +1,6 @@
 from transformers import pipeline
 import pandas as pd
+import numpy as np
 
 def Analizar(texto):
   # creación del pipeline cargando el modelo preentrenado
@@ -62,8 +63,33 @@ df.to_csv(archivo_csv, index=False)'''
 # Abre el archivo en modo de lectura
 with open('Datasets/Transcripcion.txt', 'r', encoding='utf-8') as archivo:
     # Lee el contenido del archivo
-    contenido = archivo.read()
+    contenido = archivo.readlines()
 
-neg, neu, pos = Analizar(contenido)
-satisfaccion = clasificar_satisfaccion(neg, neu, pos)
+'''valores = []
+
+for linea in contenido:
+    neg, neu, pos = Analizar(linea)
+    valores.append([neg, neu, pos])
+
+pneg, pneu, ppos = np.mean(valores, axis=0)
+
+satisfaccion = clasificar_satisfaccion(pneg, pneu, ppos)
+print(satisfaccion)'''
+
+# Imprimir el contenido en bloques de 15 líneas
+bloque_size = 15
+total_lineas = len(contenido)
+
+valores = []
+
+for i in range(0, total_lineas, bloque_size):
+    parrafo = ''
+    bloque = contenido[i:i + bloque_size]
+    for linea in bloque:
+        parrafo = parrafo + ' ' + linea.strip()
+    neg, neu, pos = Analizar(parrafo)
+    valores.append([neg, neu, pos])
+
+pneg, pneu, ppos = np.mean(valores, axis=0)
+satisfaccion = clasificar_satisfaccion(pneg, pneu, ppos)
 print(satisfaccion)
